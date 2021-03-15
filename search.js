@@ -3,7 +3,7 @@ var fuse;
 
 function initTable() {
     var tbl = document.getElementById("result-tbl")
-    tbl.innerHTML = '<thead><tr><th width="70%">제목</th><th width="15%">볼륨</th><th>페이지</th></tr></thead>'
+    tbl.innerHTML = '<thead><tr><th width="70%">제목</th><th width="15%">볼륨</th><th width="15%">페이지</th></tr></thead>'
 }
 
 function updateSearch() {
@@ -17,9 +17,8 @@ function updateSearch() {
         if (i >= 15) break;
         var item = res[i].item;
         var page_text = item.page_s == item.page_e ? item.page_s : item.page_s + "~" + item.page_e;
-        tbl.innerHTML += '<tr><td>' + 
-                '<a href="view.html?vol=' + item.volume + '&page_s=' + item.page_s + '&page_e='+ item.page_e + '">' + item.title + '</a>'
-                + '</td><td>' + item.volume + '</td><td>' + page_text + '</td></tr>'
+        tbl.innerHTML += `<tr><td><a href="view.html?vol=${item.volume}&page_s=${item.page_s}&page_e=${item.page_e}">${item.title}</a>`
+                + `</td><td>${item.volume}</td><td>${page_text}</td></tr>`
     }
 }
 
