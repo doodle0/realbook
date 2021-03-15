@@ -1,1767 +1,2660 @@
 [
     {
       "title": "A CALL FOR ALL DEMONS",
-      "page": 1
+      "volume": 1,
+      "page_s": 1,
+      "page_e": 1
     },
     {
       "title": "A CHILD IS BORN",
-      "page": 2
+      "volume": 1,
+      "page_s": 2,
+      "page_e": 2
     },
     {
       "title": "A FINE ROMANCE",
-      "page": 3
+      "volume": 1,
+      "page_s": 3,
+      "page_e": 3
     },
     {
       "title": "A FAMILY JOY",
-      "page": 4
+      "volume": 1,
+      "page_s": 4,
+      "page_e": 5
     },
     {
       "title": "A FOGGY DAY",
-      "page": 6
+      "volume": 1,
+      "page_s": 6,
+      "page_e": 6
     },
     {
       "title": "A NIGHT IN TUNISIA",
-      "page": 7
+      "volume": 1,
+      "page_s": 7,
+      "page_e": 7
     },
     {
       "title": "AFRICAN FLOWER",
-      "page": 8
+      "volume": 1,
+      "page_s": 8,
+      "page_e": 8
     },
     {
       "title": "AFRO BLUE",
-      "page": 9
+      "volume": 1,
+      "page_s": 9,
+      "page_e": 9
     },
     {
       "title": "AFTERNOON IN PARIS",
-      "page": 10
+      "volume": 1,
+      "page_s": 10,
+      "page_e": 10
     },
     {
       "title": "AIREGIN",
-      "page": 11
+      "volume": 1,
+      "page_s": 11,
+      "page_e": 11
     },
     {
       "title": "ALICE IN WONDERLAND",
-      "page": 12
+      "volume": 1,
+      "page_s": 12,
+      "page_e": 12
     },
     {
       "title": "ALL BLUES",
-      "page": 13
+      "volume": 1,
+      "page_s": 13,
+      "page_e": 13
     },
     {
       "title": "ALL IN LOVE IS FAIR",
-      "page": 14
+      "volume": 1,
+      "page_s": 14,
+      "page_e": 14
     },
     {
       "title": "ALL MY TOMORROWS",
-      "page": 15
+      "volume": 1,
+      "page_s": 15,
+      "page_e": 15
     },
     {
       "title": "ALL OF ME",
-      "page": 16
+      "volume": 1,
+      "page_s": 16,
+      "page_e": 16
     },
     {
       "title": "ALL OF YOU",
-      "page": 17
+      "volume": 1,
+      "page_s": 17,
+      "page_e": 17
     },
     {
       "title": "ALL THE THINGS YOU ARE",
-      "page": 18
+      "volume": 1,
+      "page_s": 18,
+      "page_e": 18
     },
     {
       "title": "ALONE TOGETHER",
-      "page": 19
+      "volume": 1,
+      "page_s": 19,
+      "page_e": 19
     },
     {
       "title": "ANA MARIA",
-      "page": 20
+      "volume": 1,
+      "page_s": 20,
+      "page_e": 21
     },
     {
       "title": "AND NOW, THE QUEEN",
-      "page": 22
+      "volume": 1,
+      "page_s": 22,
+      "page_e": 22
     },
     {
       "title": "AROUND AGIN",
-      "page": 22
+      "volume": 1,
+      "page_s": 22,
+      "page_e": 22
     },
     {
       "title": "AND ON THE THIRD DAY",
-      "page": 23
+      "volume": 1,
+      "page_s": 23,
+      "page_e": 23
     },
     {
       "title": "ANGEL EYES",
-      "page": 24
+      "volume": 1,
+      "page_s": 24,
+      "page_e": 24
     },
     {
       "title": "ANTHROPOLOGY",
-      "page": 25
+      "volume": 1,
+      "page_s": 25,
+      "page_e": 25
     },
     {
       "title": "APRIL IN PARIS",
-      "page": 26
+      "volume": 1,
+      "page_s": 26,
+      "page_e": 26
     },
     {
       "title": "APRIL JOY",
-      "page": 27
+      "volume": 1,
+      "page_s": 27,
+      "page_e": 27
     },
     {
       "title": "ARISE, HER EYES",
-      "page": 28
+      "volume": 1,
+      "page_s": 28,
+      "page_e": 29
     },
     {
       "title": "ARMAGEDDON",
-      "page": 30
+      "volume": 1,
+      "page_s": 30,
+      "page_e": 30
     },
     {
       "title": "AS TIME GOES BY",
-      "page": 31
+      "volume": 1,
+      "page_s": 31,
+      "page_e": 31
     },
     {
       "title": "AU PRIVAVE",
-      "page": 32
+      "volume": 1,
+      "page_s": 32,
+      "page_e": 32
     },
     {
       "title": "AUTUMN IN NEW YORK",
-      "page": 33
+      "volume": 1,
+      "page_s": 33,
+      "page_e": 33
     },
     {
       "title": "AY, ARRIBA!",
-      "page": 34
+      "volume": 1,
+      "page_s": 34,
+      "page_e": 35
     },
     {
       "title": "AUTUMN LEAVES",
-      "page": 36
+      "volume": 1,
+      "page_s": 36,
+      "page_e": 36
     },
     {
       "title": "BALLET",
-      "page": 37
+      "volume": 1,
+      "page_s": 37,
+      "page_e": 37
     },
     {
       "title": "BATTERIE",
-      "page": 38
+      "volume": 1,
+      "page_s": 38,
+      "page_e": 38
     },
     {
       "title": "ICTUS",
-      "page": 38
+      "volume": 1,
+      "page_s": 38,
+      "page_e": 38
     },
     {
       "title": "BEAUTIFUL LOVE",
-      "page": 39
+      "volume": 1,
+      "page_s": 39,
+      "page_e": 39
     },
     {
       "title": "BEAUTY AND THE BEAST",
-      "page": 40
+      "volume": 1,
+      "page_s": 40,
+      "page_e": 40
     },
     {
       "title": "BENEATH IT ALL",
-      "page": 41
+      "volume": 1,
+      "page_s": 41,
+      "page_e": 41
     },
     {
       "title": "BESSIE'S BLUES",
-      "page": 42
+      "volume": 1,
+      "page_s": 42,
+      "page_e": 42
     },
     {
       "title": "BEWITCHED",
-      "page": 43
+      "volume": 1,
+      "page_s": 43,
+      "page_e": 43
     },
     {
       "title": "BIG NICK",
-      "page": 44
+      "volume": 1,
+      "page_s": 44,
+      "page_e": 44
     },
     {
       "title": "BITTER SUITE IN THE OZONE",
-      "page": 45
+      "volume": 1,
+      "page_s": 45,
+      "page_e": 45
     },
     {
       "title": "BLACK DIAMOND",
-      "page": 46
+      "volume": 1,
+      "page_s": 46,
+      "page_e": 46
     },
     {
       "title": "BLACK NARCISSUS",
-      "page": 47
+      "volume": 1,
+      "page_s": 47,
+      "page_e": 47
     },
     {
       "title": "BLACK NILE",
-      "page": 48
+      "volume": 1,
+      "page_s": 48,
+      "page_e": 48
     },
     {
       "title": "BLACK ORPHEUS",
-      "page": 49
+      "volume": 1,
+      "page_s": 49,
+      "page_e": 49
     },
     {
       "title": "BLESSED RELIEF",
-      "page": 50
+      "volume": 1,
+      "page_s": 50,
+      "page_e": 50
     },
     {
       "title": "BLUE BOSSA",
-      "page": 51
+      "volume": 1,
+      "page_s": 51,
+      "page_e": 51
     },
     {
       "title": "BLUE COMEDY",
-      "page": 52
+      "volume": 1,
+      "page_s": 52,
+      "page_e": 52
     },
     {
       "title": "BLUE IN GREEN",
-      "page": 53
+      "volume": 1,
+      "page_s": 53,
+      "page_e": 53
     },
     {
       "title": "BLUE MONK",
-      "page": 54
+      "volume": 1,
+      "page_s": 54,
+      "page_e": 54
     },
     {
       "title": "BLUE ROOM",
-      "page": 55
+      "volume": 1,
+      "page_s": 55,
+      "page_e": 55
     },
     {
       "title": "BLUBSETTE",
-      "page": 56
+      "volume": 1,
+      "page_s": 56,
+      "page_e": 56
     },
     {
       "title": "BLUES FOR ALICE",
-      "page": 57
+      "volume": 1,
+      "page_s": 57,
+      "page_e": 57
     },
     {
       "title": "BLUE TRANE",
-      "page": 58
+      "volume": 1,
+      "page_s": 58,
+      "page_e": 58
     },
     {
       "title": "BODY AND SOUL",
-      "page": 59
+      "volume": 1,
+      "page_s": 59,
+      "page_e": 59
     },
     {
       "title": "BOPLICITY",
-      "page": 60
+      "volume": 1,
+      "page_s": 60,
+      "page_e": 60
     },
     {
       "title": "BOSTON MARATHON",
-      "page": 61
+      "volume": 1,
+      "page_s": 61,
+      "page_e": 61
     },
     {
       "title": "BRAINVILLE",
-      "page": 62
+      "volume": 1,
+      "page_s": 62,
+      "page_e": 63
     },
     {
       "title": "BRIGHT SIZE LIFE",
-      "page": 64
+      "volume": 1,
+      "page_s": 64,
+      "page_e": 64
     },
     {
       "title": "BROADWAY BLUES",
-      "page": 65
+      "volume": 1,
+      "page_s": 65,
+      "page_e": 65
     },
     {
       "title": "BROWNOUT",
-      "page": 66
+      "volume": 1,
+      "page_s": 66,
+      "page_e": 66
     },
     {
       "title": "BUT BEAUTIFUL",
-      "page": 67
+      "volume": 1,
+      "page_s": 67,
+      "page_e": 67
     },
     {
       "title": "BUTTERFLY",
-      "page": 68
+      "volume": 1,
+      "page_s": 68,
+      "page_e": 69
     },
     {
       "title": "CAPTAIN MARVEL",
-      "page": 70
+      "volume": 1,
+      "page_s": 70,
+      "page_e": 71
     },
     {
       "title": "CANYON SONG",
-      "page": 72
+      "volume": 1,
+      "page_s": 72,
+      "page_e": 72
     },
     {
       "title": "CEORA",
-      "page": 73
+      "volume": 1,
+      "page_s": 73,
+      "page_e": 73
     },
     {
       "title": "CHEGA DE SAUDADE",
-      "page": 74
+      "volume": 1,
+      "page_s": 74,
+      "page_e": 75
     },
     {
       "title": "CHELSEA BELLS",
-      "page": 76
+      "volume": 1,
+      "page_s": 76,
+      "page_e": 76
     },
     {
       "title": "CHELSEA BRIDGE",
-      "page": 77
+      "volume": 1,
+      "page_s": 77,
+      "page_e": 77
     },
     {
       "title": "CHEROKEE",
-      "page": 78
+      "volume": 1,
+      "page_s": 78,
+      "page_e": 78
     },
     {
       "title": "CHICKEN FEATHERS",
-      "page": 79
+      "volume": 1,
+      "page_s": 79,
+      "page_e": 79
     },
     {
       "title": "CHILDREN'S SONG",
-      "page": 80
+      "volume": 1,
+      "page_s": 80,
+      "page_e": 81
+    },
+    {
+      "title": "COLORS OF CHLOE",
+      "volume": 1,
+      "page_s": 82,
+      "page_e": 84
     },
     {
       "title": "CHIPPIE",
-      "page": 85
+      "volume": 1,
+      "page_s": 85,
+      "page_e": 85
     },
     {
       "title": "COMO EN VIETNAM",
-      "page": 86
+      "volume": 1,
+      "page_s": 86,
+      "page_e": 87
     },
     {
       "title": "COME SUNDAY",
-      "page": 88
+      "volume": 1,
+      "page_s": 88,
+      "page_e": 88
     },
     {
       "title": "CON ALMA",
-      "page": 89
+      "volume": 1,
+      "page_s": 89,
+      "page_e": 89
     },
     {
       "title": "CONCEPTION",
-      "page": 90
+      "volume": 1,
+      "page_s": 90,
+      "page_e": 90
     },
     {
       "title": "CONFERENCE OF THE BIRDS",
-      "page": 91
+      "volume": 1,
+      "page_s": 91,
+      "page_e": 91
     },
     {
       "title": "CONFIRMATION",
-      "page": 92
+      "volume": 1,
+      "page_s": 92,
+      "page_e": 92
     },
     {
       "title": "CORAL",
-      "page": 93
+      "volume": 1,
+      "page_s": 93,
+      "page_e": 93
     },
     {
       "title": "MOONCHILD",
-      "page": 93
+      "volume": 1,
+      "page_s": 93,
+      "page_e": 93
     },
     {
       "title": "COROCOVADO",
-      "page": 94
+      "volume": 1,
+      "page_s": 94,
+      "page_e": 94
     },
     {
       "title": "COTTONTAIL",
-      "page": 95
+      "volume": 1,
+      "page_s": 95,
+      "page_e": 95
     },
     {
       "title": "COULD IT BE YOU",
-      "page": 96
+      "volume": 1,
+      "page_s": 96,
+      "page_e": 96
     },
     {
       "title": "COUNTDOWN",
-      "page": 97
+      "volume": 1,
+      "page_s": 97,
+      "page_e": 97
     },
     {
       "title": "COUNTRY ROADS",
-      "page": 98
+      "volume": 1,
+      "page_s": 98,
+      "page_e": 98
     },
     {
       "title": "CRESCENT",
-      "page": 99
+      "volume": 1,
+      "page_s": 99,
+      "page_e": 99
     },
     {
       "title": "CRYSTAL SILENCE",
-      "page": 100
+      "volume": 1,
+      "page_s": 100,
+      "page_e": 100
     },
     {
       "title": "DAAHOUD",
-      "page": 101
+      "volume": 1,
+      "page_s": 101,
+      "page_e": 101
     },
     {
       "title": "DANCING ON THE CEILING",
-      "page": 102
+      "volume": 1,
+      "page_s": 102,
+      "page_e": 102
     },
     {
       "title": "DARN THAT DREAM",
-      "page": 103
+      "volume": 1,
+      "page_s": 103,
+      "page_e": 103
     },
     {
       "title": "DAYS AND NIGHTS WAITING",
-      "page": 104
+      "volume": 1,
+      "page_s": 104,
+      "page_e": 104
     },
     {
       "title": "THE DAYS OF WINE AND ROSES",
-      "page": 105
+      "volume": 1,
+      "page_s": 105,
+      "page_e": 105
     },
     {
       "title": "DAY WAVES",
-      "page": 106
+      "volume": 1,
+      "page_s": 106,
+      "page_e": 106
     },
     {
       "title": "DEARLY BELOVED",
-      "page": 107
+      "volume": 1,
+      "page_s": 107,
+      "page_e": 107
     },
     {
       "title": "DEAR OLD STOCKHOLM",
-      "page": 108
+      "volume": 1,
+      "page_s": 108,
+      "page_e": 108
     },
     {
       "title": "DELORES",
-      "page": 109
+      "volume": 1,
+      "page_s": 109,
+      "page_e": 109
     },
     {
       "title": "DE POIS DO AMOR O VAZIS",
-      "page": 110
+      "volume": 1,
+      "page_s": 110,
+      "page_e": 111
     },
     {
       "title": "DESAFINADO",
-      "page": 112
+      "volume": 1,
+      "page_s": 112,
+      "page_e": 113
     },
     {
       "title": "DESERT AIR",
-      "page": 114
+      "volume": 1,
+      "page_s": 114,
+      "page_e": 115
     },
     {
       "title": "DELUGE",
-      "page": 116
+      "volume": 1,
+      "page_s": 116,
+      "page_e": 116
     },
     {
       "title": "DEXTERITY",
-      "page": 117
+      "volume": 1,
+      "page_s": 117,
+      "page_e": 117
     },
     {
       "title": "DOIN' THE PIG",
-      "page": 118
+      "volume": 1,
+      "page_s": 118,
+      "page_e": 119
     },
     {
       "title": "DJANGO",
-      "page": 120
+      "volume": 1,
+      "page_s": 120,
+      "page_e": 120
     },
     {
       "title": "THE DOLPHIN",
-      "page": 121
+      "volume": 1,
+      "page_s": 121,
+      "page_e": 121
     },
     {
       "title": "DOLPHIN DANCE",
-      "page": 122
+      "volume": 1,
+      "page_s": 122,
+      "page_e": 122
     },
     {
       "title": "DOMINO BISCUIT",
-      "page": 123
+      "volume": 1,
+      "page_s": 123,
+      "page_e": 123
     },
     {
       "title": "DONNA LEE",
-      "page": 124
+      "volume": 1,
+      "page_s": 124,
+      "page_e": 124
     },
     {
       "title": "DON'T BLAME ME",
-      "page": 125
+      "volume": 1,
+      "page_s": 125,
+      "page_e": 125
     },
     {
       "title": "DON'T GET AROUND MUCH ANYMORE",
-      "page": 126
+      "volume": 1,
+      "page_s": 126,
+      "page_e": 126
     },
     {
       "title": "THE DUKE",
-      "page": 127
+      "volume": 1,
+      "page_s": 127,
+      "page_e": 127
     },
     {
       "title": "12-4 2-4/DUPLlCITIES",
-      "page": 128
+      "volume": 1,
+      "page_s": 128,
+      "page_e": 128
     },
     {
       "title": "EASY LIVING",
-      "page": 129
+      "volume": 1,
+      "page_s": 129,
+      "page_e": 129
     },
     {
       "title": "EASY TO LOVE",
-      "page": 130
+      "volume": 1,
+      "page_s": 130,
+      "page_e": 130
     },
     {
       "title": "ECCLUSICISTICS",
-      "page": 131
+      "volume": 1,
+      "page_s": 131,
+      "page_e": 131
     },
     {
       "title": "EIDERDOWN",
-      "page": 132
+      "volume": 1,
+      "page_s": 132,
+      "page_e": 133
     },
     {
       "title": "EIGHTY ONE",
-      "page": 134
+      "volume": 1,
+      "page_s": 134,
+      "page_e": 134
     },
     {
       "title": "EL GAUCHO",
-      "page": 135
+      "volume": 1,
+      "page_s": 135,
+      "page_e": 135
     },
     {
       "title": "ELIZETTE",
-      "page": 136
+      "volume": 1,
+      "page_s": 136,
+      "page_e": 136
     },
     {
       "title": "EMPATHY",
-      "page": 137
+      "volume": 1,
+      "page_s": 137,
+      "page_e": 137
     },
     {
       "title": "EPISTROPHY",
-      "page": 138
+      "volume": 1,
+      "page_s": 138,
+      "page_e": 138
     },
     {
       "title": "EQUINOX",
-      "page": 139
+      "volume": 1,
+      "page_s": 139,
+      "page_e": 139
     },
     {
       "title": "EQUIPOISE",
-      "page": 140
+      "volume": 1,
+      "page_s": 140,
+      "page_e": 140
     },
     {
       "title": "E.S.P.",
-      "page": 141
+      "volume": 1,
+      "page_s": 141,
+      "page_e": 141
     },
     {
       "title": "EXERCISE #3",
-      "page": 142
+      "volume": 1,
+      "page_s": 142,
+      "page_e": 142
     },
     {
       "title": "EXERCISE #6",
-      "page": 143
+      "volume": 1,
+      "page_s": 143,
+      "page_e": 143
     },
     {
       "title": "FABLES OF FAUBUS",
-      "page": 144
+      "volume": 1,
+      "page_s": 144,
+      "page_e": 145
     },
     {
       "title": "FALL",
-      "page": 146
+      "volume": 1,
+      "page_s": 146,
+      "page_e": 146
     },
     {
       "title": "FALLING GRACE",
-      "page": 147
+      "volume": 1,
+      "page_s": 147,
+      "page_e": 147
     },
     {
       "title": "FALLING IN LOVE WITH LOVE",
-      "page": 148
+      "volume": 1,
+      "page_s": 148,
+      "page_e": 148
     },
     {
       "title": "FEE-FI-FO-FUM",
-      "page": 149
+      "volume": 1,
+      "page_s": 149,
+      "page_e": 149
     },
     {
       "title": "FEELINGS AND THINGS",
-      "page": 150
+      "volume": 1,
+      "page_s": 150,
+      "page_e": 150
     },
     {
       "title": "THE FIELDS WE KNOW",
-      "page": 151
+      "volume": 1,
+      "page_s": 151,
+      "page_e": 151
     },
     {
       "title": "500 MILES HIGH",
-      "page": 152
+      "volume": 1,
+      "page_s": 152,
+      "page_e": 152
     },
     {
       "title": "502 BLUES",
-      "page": 153
+      "volume": 1,
+      "page_s": 153,
+      "page_e": 153
     },
     {
       "title": "FOLLOW YOUR HEART",
-      "page": 154
+      "volume": 1,
+      "page_s": 154,
+      "page_e": 155
     },
     {
       "title": "CENTRAL PARK WEST",
-      "page": 156
+      "volume": 1,
+      "page_s": 156,
+      "page_e": 156
     },
     {
       "title": "FLAGS",
-      "page": 156
+      "volume": 1,
+      "page_s": 156,
+      "page_e": 156
     },
     {
       "title": "FOOTPRINTS",
-      "page": 157
+      "volume": 1,
+      "page_s": 157,
+      "page_e": 157
     },
     {
       "title": "FOREST FLOWER",
-      "page": 158
+      "volume": 1,
+      "page_s": 158,
+      "page_e": 158
     },
     {
       "title": "FOR HEAVEN'S SAKE",
-      "page": 159
+      "volume": 1,
+      "page_s": 159,
+      "page_e": 160
     },
     {
       "title": "FOUR",
-      "page": 161
+      "volume": 1,
+      "page_s": 161,
+      "page_e": 161
     },
     {
       "title": "FOUR ON SIX",
-      "page": 162
+      "volume": 1,
+      "page_s": 162,
+      "page_e": 162
     },
     {
       "title": "FOUR, WINDS",
-      "page": 163
+      "volume": 1,
+      "page_s": 163,
+      "page_e": 163
     },
     {
       "title": "FREDDIE THE FREELOADER",
-      "page": 164
+      "volume": 1,
+      "page_s": 164,
+      "page_e": 164
     },
     {
       "title": "FREEDOM JAZZ DANCE",
-      "page": 165
+      "volume": 1,
+      "page_s": 165,
+      "page_e": 165
     },
     {
       "title": "GARY'S WALTZ",
-      "page": 166
+      "volume": 1,
+      "page_s": 166,
+      "page_e": 166
     },
     {
       "title": "GEMINI",
-      "page": 167
+      "volume": 1,
+      "page_s": 167,
+      "page_e": 167
     },
     {
       "title": "GENERAL MOJO'S WELL LAID PLAN",
-      "page": 168
+      "volume": 1,
+      "page_s": 168,
+      "page_e": 168
     },
     {
       "title": "GENTLE RAIN",
-      "page": 169
+      "volume": 1,
+      "page_s": 169,
+      "page_e": 169
     },
     {
       "title": "GIANT STEPS",
-      "page": 170
+      "volume": 1,
+      "page_s": 170,
+      "page_e": 170
     },
     {
       "title": "THE GIRL FROM IPANEMA",
-      "page": 171
+      "volume": 1,
+      "page_s": 171,
+      "page_e": 171
     },
     {
       "title": "GLORIA'S STEP",
-      "page": 172
+      "volume": 1,
+      "page_s": 172,
+      "page_e": 172
     },
     {
       "title": "GOD BLESS THE CHILD",
-      "page": 173
+      "volume": 1,
+      "page_s": 173,
+      "page_e": 173
     },
     {
       "title": "GOLDEN LADY",
-      "page": 174
+      "volume": 1,
+      "page_s": 174,
+      "page_e": 174
     },
     {
       "title": "GOODBYE PORK PIE HAT",
-      "page": 175
+      "volume": 1,
+      "page_s": 175,
+      "page_e": 175
     },
     {
       "title": "GOOD EVENING MR. AND MRS. AMERICA",
-      "page": 176
+      "volume": 1,
+      "page_s": 176,
+      "page_e": 177
     },
     {
       "title": "GRAND CENTRAL",
-      "page": 178
+      "volume": 1,
+      "page_s": 178,
+      "page_e": 178
     },
     {
       "title": "GREEN DOLPHIN STREET",
-      "page": 179
+      "volume": 1,
+      "page_s": 179,
+      "page_e": 179
     },
     {
       "title": "GREEN MOUNTAINS",
-      "page": 180
+      "volume": 1,
+      "page_s": 180,
+      "page_e": 180
     },
     {
       "title": "GROOVIN' HIGH",
-      "page": 181
+      "volume": 1,
+      "page_s": 181,
+      "page_e": 181
     },
     {
       "title": "GROW YOUR OWN",
-      "page": 182
+      "volume": 1,
+      "page_s": 182,
+      "page_e": 183
     },
     {
       "title": "HALF NELSON",
-      "page": 184
+      "volume": 1,
+      "page_s": 184,
+      "page_e": 184
     },
     {
       "title": "HASSAN'S DREAM",
-      "page": 185
+      "volume": 1,
+      "page_s": 185,
+      "page_e": 185
     },
     {
       "title": "HAVE YOU MET MISS JONES",
-      "page": 186
+      "volume": 1,
+      "page_s": 186,
+      "page_e": 186
     },
     {
       "title": "HEAVEN",
-      "page": 187
+      "volume": 1,
+      "page_s": 187,
+      "page_e": 187
     },
     {
       "title": "HELLO, YOUNG LOVERS",
-      "page": 188
+      "volume": 1,
+      "page_s": 188,
+      "page_e": 189
     },
     {
       "title": "HENNIGER FLATS",
-      "page": 190
+      "volume": 1,
+      "page_s": 190,
+      "page_e": 190
     },
     {
       "title": "HERE'S THAT RAINY DAY",
-      "page": 191
+      "volume": 1,
+      "page_s": 191,
+      "page_e": 191
     },
     {
       "title": "HERZOG",
-      "page": 192
+      "volume": 1,
+      "page_s": 192,
+      "page_e": 193
     },
     {
       "title": "HEY THERE",
-      "page": 194
+      "volume": 1,
+      "page_s": 194,
+      "page_e": 194
     },
     {
       "title": "HOLD OUT YOUR HAND",
-      "page": 195
+      "volume": 1,
+      "page_s": 195,
+      "page_e": 195
     },
     {
       "title": "HOTEL OVERTURE",
-      "page": 196
+      "volume": 1,
+      "page_s": 196,
+      "page_e": 196
     },
     {
       "title": "HOTEL VAMP",
-      "page": 197
+      "volume": 1,
+      "page_s": 197,
+      "page_e": 197
     },
     {
       "title": "HOTEL HELLO",
-      "page": 198
+      "volume": 1,
+      "page_s": 198,
+      "page_e": 199
     },
     {
       "title": "SWEEPING UP",
-      "page": 200
+      "volume": 1,
+      "page_s": 200,
+      "page_e": 200
     },
     {
       "title": "HOUSE OF JADE",
-      "page": 201
+      "volume": 1,
+      "page_s": 201,
+      "page_e": 201
     },
     {
       "title": "HOW HIGH THE MOON",
-      "page": 202
+      "volume": 1,
+      "page_s": 202,
+      "page_e": 202
     },
     {
       "title": "HOW INSENSITIVE",
-      "page": 203
+      "volume": 1,
+      "page_s": 203,
+      "page_e": 203
     },
     {
       "title": "HOW MY HEART SINGS",
-      "page": 204
+      "volume": 1,
+      "page_s": 204,
+      "page_e": 204
     },
     {
       "title": "HULLO, BOLINAS",
-      "page": 205
+      "volume": 1,
+      "page_s": 205,
+      "page_e": 205
+    },
+    {
+      "title": "ICARUS",
+      "volume": 1,
+      "page_s": 206,
+      "page_e": 207
     },
     {
       "title": "I CAN'T GET STARTED",
-      "page": 208
+      "volume": 1,
+      "page_s": 208,
+      "page_e": 208
     },
     {
       "title": "I COULD WRITE A BOOK",
-      "page": 209
+      "volume": 1,
+      "page_s": 209,
+      "page_e": 209
     },
     {
       "title": "IDA LUPINO",
-      "page": 210
+      "volume": 1,
+      "page_s": 210,
+      "page_e": 211
     },
     {
       "title": "IF YOU NEVER COME TO ME",
-      "page": 212
+      "volume": 1,
+      "page_s": 212,
+      "page_e": 212
     },
     {
       "title": "I GOT IT BAD",
-      "page": 213
+      "volume": 1,
+      "page_s": 213,
+      "page_e": 213
     },
     {
       "title": "I LET A SONG GO OUT OF MY HEART",
-      "page": 214
+      "volume": 1,
+      "page_s": 214,
+      "page_e": 214
     },
     {
       "title": "I LOVE YOU",
-      "page": 215
+      "volume": 1,
+      "page_s": 215,
+      "page_e": 215
     },
     {
       "title": "I'M ALL SMILES",
-      "page": 216
+      "volume": 1,
+      "page_s": 216,
+      "page_e": 217
     },
     {
       "title": "I'LL REMEMBER APRIL",
-      "page": 218
+      "volume": 1,
+      "page_s": 218,
+      "page_e": 218
     },
     {
       "title": "I MEAN YOU",
-      "page": 219
+      "volume": 1,
+      "page_s": 219,
+      "page_e": 219
     },
     {
       "title": "IMPRESSIONS",
-      "page": 220
+      "volume": 1,
+      "page_s": 220,
+      "page_e": 220
     },
     {
       "title": "I'M YOUR PAL",
-      "page": 221
+      "volume": 1,
+      "page_s": 221,
+      "page_e": 221
     },
     {
       "title": "IN A MELLOW TONE",
-      "page": 222
+      "volume": 1,
+      "page_s": 222,
+      "page_e": 222
     },
     {
       "title": "IN A SENTIMENTAL MOOD",
-      "page": 223
+      "volume": 1,
+      "page_s": 223,
+      "page_e": 223
     },
     {
       "title": "INCHWORM",
-      "page": 224
+      "volume": 1,
+      "page_s": 224,
+      "page_e": 224
     },
     {
       "title": "INDIAN LADY",
-      "page": 225
+      "volume": 1,
+      "page_s": 225,
+      "page_e": 225
     },
     {
       "title": "INSIDE IN",
-      "page": 226
+      "volume": 1,
+      "page_s": 226,
+      "page_e": 228
     },
     {
       "title": "INNER URGE",
-      "page": 229
+      "volume": 1,
+      "page_s": 229,
+      "page_e": 229
     },
     {
       "title": "INTERPLAY",
-      "page": 230
+      "volume": 1,
+      "page_s": 230,
+      "page_e": 230
     },
     {
       "title": "INTREPID FOX",
-      "page": 231
+      "volume": 1,
+      "page_s": 231,
+      "page_e": 231
     },
     {
       "title": "IN YOUR OWN SWEET WAY",
-      "page": 232
+      "volume": 1,
+      "page_s": 232,
+      "page_e": 232
     },
     {
       "title": "IN YOUR QUIET PLACE",
-      "page": 233
+      "volume": 1,
+      "page_s": 233,
+      "page_e": 233
     },
     {
       "title": "INVITATION",
-      "page": 234
+      "volume": 1,
+      "page_s": 234,
+      "page_e": 234
     },
     {
       "title": "I REMEMBER CLIFFORD",
-      "page": 235
+      "volume": 1,
+      "page_s": 235,
+      "page_e": 235
     },
     {
       "title": "IRIS",
-      "page": 236
+      "volume": 1,
+      "page_s": 236,
+      "page_e": 236
     },
     {
       "title": "I SHOULD CARE",
-      "page": 237
+      "volume": 1,
+      "page_s": 237,
+      "page_e": 237
     },
     {
       "title": "ISN'T IT ROMANTIC?",
-      "page": 238
+      "volume": 1,
+      "page_s": 238,
+      "page_e": 238
     },
     {
       "title": "ISOTOPE",
-      "page": 239
+      "volume": 1,
+      "page_s": 239,
+      "page_e": 239
     },
     {
       "title": "ISRAEL",
-      "page": 240
+      "volume": 1,
+      "page_s": 240,
+      "page_e": 240
     },
     {
       "title": "IT DON'T MEAN A THING",
-      "page": 241
+      "volume": 1,
+      "page_s": 241,
+      "page_e": 241
     },
     {
       "title": "IT'S A RAGGY WALTZ",
-      "page": 242
+      "volume": 1,
+      "page_s": 242,
+      "page_e": 242
     },
     {
       "title": "JELLY ROLL",
-      "page": 243
+      "volume": 1,
+      "page_s": 243,
+      "page_e": 243
     },
     {
       "title": "JINRIKISHA",
-      "page": 244
+      "volume": 1,
+      "page_s": 244,
+      "page_e": 244
     },
     {
       "title": "JORDU",
-      "page": 245
+      "volume": 1,
+      "page_s": 245,
+      "page_e": 245
     },
     {
       "title": "JOURNEY TO RECIFE",
-      "page": 246
+      "volume": 1,
+      "page_s": 246,
+      "page_e": 246
     },
     {
       "title": "JOY SPRING",
-      "page": 247
+      "volume": 1,
+      "page_s": 247,
+      "page_e": 247
     },
     {
       "title": "JU-JU",
-      "page": 248
+      "volume": 1,
+      "page_s": 248,
+      "page_e": 248
     },
     {
       "title": "JUST FRIENDS",
-      "page": 249
+      "volume": 1,
+      "page_s": 249,
+      "page_e": 249
     },
     {
       "title": "JUMP MONK",
-      "page": 250
+      "volume": 1,
+      "page_s": 250,
+      "page_e": 251
     },
     {
       "title": "JUNE 15th, 1967",
-      "page": 252
+      "volume": 1,
+      "page_s": 252,
+      "page_e": 253
     },
     {
       "title": "LA FIESTA",
-      "page": 254
+      "volume": 1,
+      "page_s": 254,
+      "page_e": 255
     },
     {
       "title": "LADY BIRD",
-      "page": 256
+      "volume": 1,
+      "page_s": 256,
+      "page_e": 256
     },
     {
       "title": "LAMENT",
-      "page": 257
+      "volume": 1,
+      "page_s": 257,
+      "page_e": 257
     },
     {
       "title": "LAS VEGAS TANGO",
-      "page": 258
+      "volume": 1,
+      "page_s": 258,
+      "page_e": 258
     },
     {
       "title": "LAZYBIRD",
-      "page": 259
+      "volume": 1,
+      "page_s": 259,
+      "page_e": 259
     },
     {
       "title": "LEROY THE MAGICIAN",
-      "page": 260
+      "volume": 1,
+      "page_s": 260,
+      "page_e": 260
     },
     {
       "title": "LIE AWAKE",
-      "page": 261
+      "volume": 1,
+      "page_s": 261,
+      "page_e": 261
     },
     {
       "title": "LIKE SOMEONE IN LOVE",
-      "page": 262
+      "volume": 1,
+      "page_s": 262,
+      "page_e": 262
     },
     {
       "title": "LIMEHOUSE BLUES",
-      "page": 263
+      "volume": 1,
+      "page_s": 263,
+      "page_e": 263
     },
     {
       "title": "LITHA",
-      "page": 264
+      "volume": 1,
+      "page_s": 264,
+      "page_e": 265
     },
     {
       "title": "LITTLE B'S POEM",
-      "page": 266
+      "volume": 1,
+      "page_s": 266,
+      "page_e": 266
     },
     {
       "title": "LITTLE NILES",
-      "page": 267
+      "volume": 1,
+      "page_s": 267,
+      "page_e": 267
     },
     {
       "title": "LITURGY",
-      "page": 268
+      "volume": 1,
+      "page_s": 268,
+      "page_e": 269
     },
     {
       "title": "LITTLE WALTZ",
-      "page": 270
+      "volume": 1,
+      "page_s": 270,
+      "page_e": 270
     },
     {
       "title": "LONG AS YOU KNOW YOU'RE LIVING YOURS",
-      "page": 271
+      "volume": 1,
+      "page_s": 271,
+      "page_e": 271
     },
     {
       "title": "LONG AGO AND FAR AWAY",
-      "page": 272
+      "volume": 1,
+      "page_s": 272,
+      "page_e": 272
     },
     {
       "title": "LIVING YOURS",
-      "page": 273
+      "volume": 1,
+      "page_s": 273,
+      "page_e": 273
     },
     {
       "title": "LONNIE'S LAMENT",
-      "page": 274
+      "volume": 1,
+      "page_s": 274,
+      "page_e": 274
     },
     {
       "title": "LOOK TO THE SKY",
-      "page": 275
+      "volume": 1,
+      "page_s": 275,
+      "page_e": 275
     },
     {
       "title": "LUCKY SOUTHERN",
-      "page": 276
+      "volume": 1,
+      "page_s": 276,
+      "page_e": 276
     },
     {
       "title": "LULLABY OF BIRDLAND",
-      "page": 277
+      "volume": 1,
+      "page_s": 277,
+      "page_e": 277
     },
     {
       "title": "LUSH LIFE",
-      "page": 278
+      "volume": 1,
+      "page_s": 278,
+      "page_e": 279
     },
     {
       "title": "THE MAGICIAN IN YOU",
-      "page": 280
+      "volume": 1,
+      "page_s": 280,
+      "page_e": 280
     },
     {
       "title": "MAIDEN VOYAGE",
-      "page": 281
+      "volume": 1,
+      "page_s": 281,
+      "page_e": 281
     },
     {
       "title": "MALLET MAN",
-      "page": 282
+      "volume": 1,
+      "page_s": 282,
+      "page_e": 283
     },
     {
       "title": "MAN IN THE GREEN SHIRT",
-      "page": 284
+      "volume": 1,
+      "page_s": 284,
+      "page_e": 285
     },
     {
       "title": "MAHJONG",
-      "page": 286
+      "volume": 1,
+      "page_s": 286,
+      "page_e": 286
     },
     {
       "title": "MAY DANCE",
-      "page": 287
+      "volume": 1,
+      "page_s": 287,
+      "page_e": 287
     },
     {
       "title": "MEDITATION",
-      "page": 288
+      "volume": 1,
+      "page_s": 288,
+      "page_e": 288
     },
     {
       "title": "MEMORIES OF TOMORROW",
-      "page": 289
+      "volume": 1,
+      "page_s": 289,
+      "page_e": 289
     },
     {
       "title": "MEVLEVIA",
-      "page": 290
+      "volume": 1,
+      "page_s": 290,
+      "page_e": 291
     },
     {
       "title": "MICHELLE",
-      "page": 292
+      "volume": 1,
+      "page_s": 292,
+      "page_e": 292
     },
     {
       "title": "MIDNIGHT MOOD",
-      "page": 293
+      "volume": 1,
+      "page_s": 293,
+      "page_e": 293
     },
     {
       "title": "MILANO",
-      "page": 294
+      "volume": 1,
+      "page_s": 294,
+      "page_e": 294
     },
     {
       "title": "MINORITY",
-      "page": 295
+      "volume": 1,
+      "page_s": 295,
+      "page_e": 295
     },
     {
       "title": "MISTY",
-      "page": 296
+      "volume": 1,
+      "page_s": 296,
+      "page_e": 296
     },
     {
       "title": "MIYAKO",
-      "page": 297
+      "volume": 1,
+      "page_s": 297,
+      "page_e": 297
     },
     {
       "title": "MOLTEN GLASS",
-      "page": 298
+      "volume": 1,
+      "page_s": 298,
+      "page_e": 298
     },
     {
       "title": "MOMENTS NOTICE",
-      "page": 299
+      "volume": 1,
+      "page_s": 299,
+      "page_e": 299
     },
     {
       "title": "MONTAGE",
-      "page": 300
+      "volume": 1,
+      "page_s": 300,
+      "page_e": 300
     },
     {
       "title": "MOOD INDIGO",
-      "page": 301
+      "volume": 1,
+      "page_s": 301,
+      "page_e": 301
     },
     {
       "title": "MOON GERMS",
-      "page": 302
+      "volume": 1,
+      "page_s": 302,
+      "page_e": 302
     },
     {
       "title": "THE MORE I SEE YOU",
-      "page": 303
+      "volume": 1,
+      "page_s": 303,
+      "page_e": 303
     },
     {
       "title": "MOTHER OF THE DEAD MAN",
-      "page": 304
+      "volume": 1,
+      "page_s": 304,
+      "page_e": 304
     },
     {
       "title": "MEMPHIS UNDERGROUND",
-      "page": 305
+      "volume": 1,
+      "page_s": 305,
+      "page_e": 305
     },
     {
       "title": "MR. P.C.",
-      "page": 305
+      "volume": 1,
+      "page_s": 305,
+      "page_e": 305
     },
     {
       "title": "MY FAVORITE THINGS",
-      "page": 306
+      "volume": 1,
+      "page_s": 306,
+      "page_e": 306
     },
     {
       "title": "MY FOOLISH HEART",
-      "page": 307
+      "volume": 1,
+      "page_s": 307,
+      "page_e": 307
     },
     {
       "title": "MY FUNNY VALENTINE",
-      "page": 308
+      "volume": 1,
+      "page_s": 308,
+      "page_e": 308
     },
     {
       "title": "MY LITTLE BOAT",
-      "page": 309
+      "volume": 1,
+      "page_s": 309,
+      "page_e": 309
     },
     {
       "title": "MY ONE AND ONLY LOVE",
-      "page": 310
+      "volume": 1,
+      "page_s": 310,
+      "page_e": 310
     },
     {
       "title": "MY ROMANCE",
-      "page": 311
-    },
-    {
-      "title": "NAIMA",
-      "page": 312
-    },
-    {
-      "title": "MY SHIP",
-      "page": 314
+      "volume": 1,
+      "page_s": 311,
+      "page_e": 311
     },
     {
       "title": "MYSTERIOUS TRAVELER",
-      "page": 315
+      "volume": 1,
+      "page_s": 312,
+      "page_e": 313
+    },
+    {
+      "title": "MY SHIP",
+      "volume": 1,
+      "page_s": 314,
+      "page_e": 314
+    },
+    {
+      "title": "NAIMA",
+      "volume": 1,
+      "page_s": 315,
+      "page_e": 315
     },
     {
       "title": "NARDIS",
-      "page": 316
+      "volume": 1,
+      "page_s": 316,
+      "page_e": 316
     },
     {
       "title": "NERPERTITI",
-      "page": 317
+      "volume": 1,
+      "page_s": 317,
+      "page_e": 317
     },
     {
       "title": "NEVER WILL I MARRY",
-      "page": 318
+      "volume": 1,
+      "page_s": 318,
+      "page_e": 318
     },
     {
       "title": "NICA'S DREAM",
-      "page": 319
+      "volume": 1,
+      "page_s": 319,
+      "page_e": 319
     },
     {
       "title": "NIGHT AND DAY",
-      "page": 320
+      "volume": 1,
+      "page_s": 320,
+      "page_e": 320
     },
     {
       "title": "NIGHT DREAMER",
-      "page": 321
+      "volume": 1,
+      "page_s": 321,
+      "page_e": 321
     },
     {
       "title": "THE NIGHT HAS A THOUSAND EYES",
-      "page": 322
+      "volume": 1,
+      "page_s": 322,
+      "page_e": 322
     },
     {
       "title": "NIMBUS",
-      "page": 323
+      "volume": 1,
+      "page_s": 323,
+      "page_e": 323
     },
     {
       "title": "NONSEQUENCE",
-      "page": 324
+      "volume": 1,
+      "page_s": 324,
+      "page_e": 325
     },
     {
       "title": "NOSTALGIA IN TIMES SQUARE",
-      "page": 326
+      "volume": 1,
+      "page_s": 326,
+      "page_e": 326
     },
     {
       "title": "OLEO",
-      "page": 327
+      "volume": 1,
+      "page_s": 327,
+      "page_e": 327
     },
     {
       "title": "OLHOS DE GATO",
-      "page": 328
+      "volume": 1,
+      "page_s": 328,
+      "page_e": 328
     },
     {
       "title": "ONCE I LOVED",
-      "page": 329
+      "volume": 1,
+      "page_s": 329,
+      "page_e": 329
     },
     {
       "title": "ONE FINGER SNAP",
-      "page": 330
+      "volume": 1,
+      "page_s": 330,
+      "page_e": 330
     },
     {
       "title": "ONE NOTE SAMBA",
-      "page": 331
+      "volume": 1,
+      "page_s": 331,
+      "page_e": 331
     },
     {
       "title": "OPEN YOUR EYES, YOU CAN FLY",
-      "page": 332
+      "volume": 1,
+      "page_s": 332,
+      "page_e": 333
     },
     {
       "title": "ORBITS",
-      "page": 334
+      "volume": 1,
+      "page_s": 334,
+      "page_e": 334
     },
     {
       "title": "ORNITHOLOGY",
-      "page": 335
+      "volume": 1,
+      "page_s": 335,
+      "page_e": 335
     },
     {
       "title": "OUT OF NOWHERE",
-      "page": 336
+      "volume": 1,
+      "page_s": 336,
+      "page_e": 336
     },
     {
       "title": "PASSION DANCE",
-      "page": 337
+      "volume": 1,
+      "page_s": 337,
+      "page_e": 337
     },
     {
       "title": "PEACHES EN REGALIA",
-      "page": 338
+      "volume": 1,
+      "page_s": 338,
+      "page_e": 339
     },
     {
       "title": "PEACE",
-      "page": 340
+      "volume": 1,
+      "page_s": 340,
+      "page_e": 340
     },
     {
       "title": "PEARDIE'S SWINE",
-      "page": 341
+      "volume": 1,
+      "page_s": 341,
+      "page_e": 341
     },
     {
       "title": "PEE-WEE",
-      "page": 342
+      "volume": 1,
+      "page_s": 342,
+      "page_e": 342
     },
     {
       "title": "PEGGY'S BLUE SKYLIGHT",
-      "page": 343
+      "volume": 1,
+      "page_s": 343,
+      "page_e": 343
     },
     {
       "title": "PENSATIVA",
-      "page": 344
+      "volume": 1,
+      "page_s": 344,
+      "page_e": 345
     },
     {
       "title": "PENT-UP HOUSE",
-      "page": 346
+      "volume": 1,
+      "page_s": 346,
+      "page_e": 346
     },
     {
       "title": "PERI'S SCOPE",
-      "page": 347
+      "volume": 1,
+      "page_s": 347,
+      "page_e": 347
     },
     {
       "title": "PFRANCINO (NO BLUES)",
-      "page": 348
+      "volume": 1,
+      "page_s": 348,
+      "page_e": 348
     },
     {
       "title": "PINOCCHIO",
-      "page": 349
+      "volume": 1,
+      "page_s": 349,
+      "page_e": 349
     },
     {
       "title": "PITHYCANTHROPUS ERECTUS",
-      "page": 350
+      "volume": 1,
+      "page_s": 350,
+      "page_e": 350
     },
     {
       "title": "PLAYED TWICE",
-      "page": 351
+      "volume": 1,
+      "page_s": 351,
+      "page_e": 351
     },
     {
       "title": "PORTSMOUTH FIGURATIONS",
-      "page": 352
+      "volume": 1,
+      "page_s": 352,
+      "page_e": 352
     },
     {
       "title": "PRELUDE TO A KISS",
-      "page": 353
+      "volume": 1,
+      "page_s": 353,
+      "page_e": 353
     },
     {
       "title": "PRINCE OF DARKNESS",
-      "page": 354
+      "volume": 1,
+      "page_s": 354,
+      "page_e": 354
     },
     {
       "title": "PSSY CAT DUES",
-      "page": 355
+      "volume": 1,
+      "page_s": 355,
+      "page_e": 355
     },
     {
       "title": "QUIET NOW",
-      "page": 356
+      "volume": 1,
+      "page_s": 356,
+      "page_e": 356
     },
     {
       "title": "THE RAVEN",
-      "page": 357
+      "volume": 1,
+      "page_s": 357,
+      "page_e": 357
     },
     {
       "title": "THE REAL GUITARIST",
-      "page": 358
+      "volume": 1,
+      "page_s": 358,
+      "page_e": 358
     },
     {
       "title": "RECORDAME",
-      "page": 359
+      "volume": 1,
+      "page_s": 359,
+      "page_e": 359
     },
     {
       "title": "REINCARNATION OF A LOVEBIRD",
-      "page": 360
+      "volume": 1,
+      "page_s": 360,
+      "page_e": 361
     },
     {
       "title": "RED CLAY",
-      "page": 362
+      "volume": 1,
+      "page_s": 362,
+      "page_e": 362
     },
     {
       "title": "RESOLUTION",
-      "page": 363
+      "volume": 1,
+      "page_s": 363,
+      "page_e": 363
     },
     {
       "title": "'ROUND MIDNIGHT",
-      "page": 364
+      "volume": 1,
+      "page_s": 364,
+      "page_e": 364
     },
     {
       "title": "SAGA OF HARRISON CRABFEATHERS",
-      "page": 365
+      "volume": 1,
+      "page_s": 365,
+      "page_e": 365
     },
     {
       "title": "SAME SHAME",
-      "page": 366
+      "volume": 1,
+      "page_s": 366,
+      "page_e": 366
     },
     {
       "title": "SATIN DOLL",
-      "page": 367
+      "volume": 1,
+      "page_s": 367,
+      "page_e": 367
     },
     {
       "title": "SCOTCH 'N' SODA",
-      "page": 368
+      "volume": 1,
+      "page_s": 368,
+      "page_e": 368
     },
     {
       "title": "SCRAPPLE FROM THE APPLE",
-      "page": 369
+      "volume": 1,
+      "page_s": 369,
+      "page_e": 369
     },
     {
       "title": "SEA JOURNEY",
-      "page": 370
+      "volume": 1,
+      "page_s": 370,
+      "page_e": 371
     },
     {
       "title": "SELF PORTRAIT IN 3 COLORS",
-      "page": 372
+      "volume": 1,
+      "page_s": 372,
+      "page_e": 372
     },
     {
       "title": "SEMBLENCE",
-      "page": 373
+      "volume": 1,
+      "page_s": 373,
+      "page_e": 373
     },
     {
       "title": "SENOR MOUSE",
-      "page": 374
+      "volume": 1,
+      "page_s": 374,
+      "page_e": 376
     },
     {
       "title": "SERENADE TO A CUCKOO",
-      "page": 377
+      "volume": 1,
+      "page_s": 377,
+      "page_e": 377
     },
     {
       "title": "SEVEN COME ELEVEN",
-      "page": 378
+      "volume": 1,
+      "page_s": 378,
+      "page_e": 378
     },
     {
       "title": "SEVEN STEPS TO HEAVEN",
-      "page": 379
+      "volume": 1,
+      "page_s": 379,
+      "page_e": 379
     },
     {
       "title": "SHADES OF LIGHT",
-      "page": 380
+      "volume": 1,
+      "page_s": 380,
+      "page_e": 380
     },
     {
       "title": "THE SHADOW OF YOUR SMILE",
-      "page": 381
+      "volume": 1,
+      "page_s": 381,
+      "page_e": 381
     },
     {
       "title": "SIDEWINDER",
-      "page": 382
+      "volume": 1,
+      "page_s": 382,
+      "page_e": 382
     },
     {
       "title": "SING ME SOFTLY OF THE BLUES",
-      "page": 383
+      "volume": 1,
+      "page_s": 383,
+      "page_e": 383
     },
     {
       "title": "SKATING IN CENTRAL PARK",
-      "page": 384
+      "volume": 1,
+      "page_s": 384,
+      "page_e": 384
     },
     {
       "title": "SLOWLY GONE, BYGONE",
-      "page": 385
+      "volume": 1,
+      "page_s": 385,
+      "page_e": 385
     },
     {
       "title": "SOLAR",
-      "page": 386
+      "volume": 1,
+      "page_s": 386,
+      "page_e": 386
     },
     {
       "title": "SOLITUDE",
-      "page": 387
+      "volume": 1,
+      "page_s": 387,
+      "page_e": 387
     },
     {
       "title": "SOMEDAY MY PRINCE WILL COME",
-      "page": 388
+      "volume": 1,
+      "page_s": 388,
+      "page_e": 388
     },
     {
       "title": "SOME OTHER TIME",
-      "page": 389
+      "volume": 1,
+      "page_s": 389,
+      "page_e": 389
     },
     {
       "title": "SOME SKUNK FUNK",
-      "page": 390
+      "volume": 1,
+      "page_s": 390,
+      "page_e": 391
     },
     {
       "title": "SOMETIME AGO",
-      "page": 392
+      "volume": 1,
+      "page_s": 392,
+      "page_e": 392
     },
     {
       "title": "SONG",
-      "page": 393
+      "volume": 1,
+      "page_s": 393,
+      "page_e": 393
     },
     {
       "title": "SONG FOR MY FATHER",
-      "page": 394
+      "volume": 1,
+      "page_s": 394,
+      "page_e": 394
     },
     {
       "title": "THE SONG IS YOU",
-      "page": 395
+      "volume": 1,
+      "page_s": 395,
+      "page_e": 395
     },
     {
       "title": "SON OF MR. GREEN GENES",
-      "page": 396
+      "volume": 1,
+      "page_s": 396,
+      "page_e": 396
     },
     {
       "title": "SOPHISTICATED LADY",
-      "page": 397
+      "volume": 1,
+      "page_s": 397,
+      "page_e": 397
     },
     {
       "title": "THE SORCERER",
-      "page": 398
+      "volume": 1,
+      "page_s": 398,
+      "page_e": 398
     },
     {
       "title": "SO WHAT",
-      "page": 399
+      "volume": 1,
+      "page_s": 399,
+      "page_e": 399
     },
     {
       "title": "SPACE CIRCUS PART 1",
-      "page": 400
+      "volume": 1,
+      "page_s": 400,
+      "page_e": 401
     },
     {
       "title": "SPACE CIRCUS PART 2",
-      "page": 402
+      "volume": 1,
+      "page_s": 402,
+      "page_e": 403
     },
     {
       "title": "SPEAK NO EVIL",
-      "page": 404
+      "volume": 1,
+      "page_s": 404,
+      "page_e": 404
     },
     {
       "title": "SPIRAL DANCE",
-      "page": 405
+      "volume": 1,
+      "page_s": 405,
+      "page_e": 405
     },
     {
       "title": "SPRING IS HERE",
-      "page": 406
+      "volume": 1,
+      "page_s": 406,
+      "page_e": 406
     },
     {
       "title": "STAR-CROSSED LOVERS",
-      "page": 407
+      "volume": 1,
+      "page_s": 407,
+      "page_e": 407
     },
     {
       "title": "STELLA BY STARLIGHT",
-      "page": 408
+      "volume": 1,
+      "page_s": 408,
+      "page_e": 408
     },
     {
       "title": "STEPS",
-      "page": 409
+      "volume": 1,
+      "page_s": 409,
+      "page_e": 409
     },
     {
       "title": "STOLEN MOMENTS",
-      "page": 410
+      "volume": 1,
+      "page_s": 410,
+      "page_e": 410
     },
     {
       "title": "STOMPIN' AT THE SAVOY",
-      "page": 411
+      "volume": 1,
+      "page_s": 411,
+      "page_e": 411
     },
     {
       "title": "STRAIGHT, NO CHASER",
-      "page": 412
+      "volume": 1,
+      "page_s": 412,
+      "page_e": 412
     },
     {
       "title": "STUFF",
-      "page": 413
+      "volume": 1,
+      "page_s": 413,
+      "page_e": 413
     },
     {
       "title": "SUGAR",
-      "page": 414
+      "volume": 1,
+      "page_s": 414,
+      "page_e": 414
     },
     {
       "title": "SUMMER SAMBA",
-      "page": 415
+      "volume": 1,
+      "page_s": 415,
+      "page_e": 415
     },
     {
       "title": "SWEDISH PASTRY",
-      "page": 416
+      "volume": 1,
+      "page_s": 416,
+      "page_e": 416
     },
     {
       "title": "SWEET GEORGIA BRIGHT",
-      "page": 417
+      "volume": 1,
+      "page_s": 417,
+      "page_e": 417
     },
     {
       "title": "SWEET HENRY",
-      "page": 418
+      "volume": 1,
+      "page_s": 418,
+      "page_e": 418
     },
     {
       "title": "SWEET RAIN",
-      "page": 419
+      "volume": 1,
+      "page_s": 419,
+      "page_e": 419
     },
     {
       "title": "TAKE FIVE",
-      "page": 420
+      "volume": 1,
+      "page_s": 420,
+      "page_e": 420
     },
     {
       "title": "TAKE THE \"A\" TRAIN",
-      "page": 421
+      "volume": 1,
+      "page_s": 421,
+      "page_e": 421
     },
     {
       "title": "TAME THY PEN",
-      "page": 422
+      "volume": 1,
+      "page_s": 422,
+      "page_e": 422
     },
     {
       "title": "THERE IS NO GREATER LOVE",
-      "page": 423
+      "volume": 1,
+      "page_s": 423,
+      "page_e": 423
     },
     {
       "title": "TELL ME A BEDTIME STORY",
-      "page": 424
+      "volume": 1,
+      "page_s": 424,
+      "page_e": 425
     },
     {
       "title": "THERE WILL NEVER BE ANOTHER YOU",
-      "page": 426
+      "volume": 1,
+      "page_s": 426,
+      "page_e": 426
     },
     {
       "title": "THEY CAN'T TAKE THAT AWAY FROM ME",
-      "page": 427
+      "volume": 1,
+      "page_s": 427,
+      "page_e": 427
     },
     {
       "title": "THINK ON ME",
-      "page": 428
+      "volume": 1,
+      "page_s": 428,
+      "page_e": 428
     },
     {
       "title": "THREE FLOWERS",
-      "page": 429
+      "volume": 1,
+      "page_s": 429,
+      "page_e": 429
     },
     {
       "title": "TONES FOR JONES BONES",
-      "page": 430
+      "volume": 1,
+      "page_s": 430,
+      "page_e": 431
     },
     {
       "title": "TIME REMEMBERED",
-      "page": 432
+      "volume": 1,
+      "page_s": 432,
+      "page_e": 432
     },
     {
       "title": "TOUGH TALK",
-      "page": 433
+      "volume": 1,
+      "page_s": 433,
+      "page_e": 433
     },
     {
       "title": "TRAIN SAMBA",
-      "page": 434
+      "volume": 1,
+      "page_s": 434,
+      "page_e": 434
     },
     {
       "title": "TRANCE",
-      "page": 435
+      "volume": 1,
+      "page_s": 435,
+      "page_e": 435
     },
     {
       "title": "TRISTE",
-      "page": 436
+      "volume": 1,
+      "page_s": 436,
+      "page_e": 436
     },
     {
       "title": "TUNE-UP",
-      "page": 437
+      "volume": 1,
+      "page_s": 437,
+      "page_e": 437
     },
     {
       "title": "TURN OUT THE STARS",
-      "page": 438
+      "volume": 1,
+      "page_s": 438,
+      "page_e": 438
     },
     {
       "title": "UNQUITY ROAD",
-      "page": 439
+      "volume": 1,
+      "page_s": 439,
+      "page_e": 439
     },
     {
       "title": "UP JUMPED SPRING",
-      "page": 440
+      "volume": 1,
+      "page_s": 440,
+      "page_e": 440
     },
     {
       "title": "UPPER MANHATTEN MEDICAL GROUP",
-      "page": 441
+      "volume": 1,
+      "page_s": 441,
+      "page_e": 441
     },
     {
       "title": "VASHKAR",
-      "page": 442
+      "volume": 1,
+      "page_s": 442,
+      "page_e": 442
     },
     {
       "title": "VERY EARLY",
-      "page": 443
+      "volume": 1,
+      "page_s": 443,
+      "page_e": 443
     },
     {
       "title": "VIRGO",
-      "page": 444
+      "volume": 1,
+      "page_s": 444,
+      "page_e": 444
     },
     {
       "title": "WAIT TILL YOU SEE HER",
-      "page": 445
+      "volume": 1,
+      "page_s": 445,
+      "page_e": 445
     },
     {
       "title": "WALKIN'",
-      "page": 446
+      "volume": 1,
+      "page_s": 446,
+      "page_e": 446
     },
     {
       "title": "WALTER L.",
-      "page": 447
+      "volume": 1,
+      "page_s": 447,
+      "page_e": 447
     },
     {
       "title": "WALTZ",
-      "page": 448
+      "volume": 1,
+      "page_s": 448,
+      "page_e": 448
     },
     {
       "title": "WALTZ FOR A LOVELY WIFE",
-      "page": 449
+      "volume": 1,
+      "page_s": 449,
+      "page_e": 449
     },
     {
       "title": "WALTZ FOR DEBBY",
-      "page": 450
+      "volume": 1,
+      "page_s": 450,
+      "page_e": 450
     },
     {
       "title": "WALTZIN'",
-      "page": 451
+      "volume": 1,
+      "page_s": 451,
+      "page_e": 451
     },
     {
       "title": "WAVE",
-      "page": 452
+      "volume": 1,
+      "page_s": 452,
+      "page_e": 452
     },
     {
       "title": "WE'LL BE TOGETHER AGAIN",
-      "page": 453
+      "volume": 1,
+      "page_s": 453,
+      "page_e": 453
     },
     {
       "title": "WELL YOU NEEDN'T",
-      "page": 454
+      "volume": 1,
+      "page_s": 454,
+      "page_e": 454
     },
     {
       "title": "WEST COAST BLUES",
-      "page": 455
+      "volume": 1,
+      "page_s": 455,
+      "page_e": 455
     },
     {
       "title": "WHAT AN I HERE FOR",
-      "page": 456
+      "volume": 1,
+      "page_s": 456,
+      "page_e": 456
     },
     {
       "title": "WHAT ARE YOU DOING THE REST OF YOUR LIFE",
-      "page": 457
+      "volume": 1,
+      "page_s": 457,
+      "page_e": 457
     },
     {
       "title": "WHAT WAS",
-      "page": 458
+      "volume": 1,
+      "page_s": 458,
+      "page_e": 459
     },
     {
       "title": "WHAT IS THIS THING CALLED LOVE",
-      "page": 460
+      "volume": 1,
+      "page_s": 460,
+      "page_e": 460
     },
     {
       "title": "WHEN I FALL IN LOVE",
-      "page": 461
+      "volume": 1,
+      "page_s": 461,
+      "page_e": 461
     },
     {
       "title": "WHEN SUNNY GETS BLUE",
-      "page": 462
+      "volume": 1,
+      "page_s": 462,
+      "page_e": 462
     },
     {
       "title": "WHERE ARE YOU",
-      "page": 463
+      "volume": 1,
+      "page_s": 463,
+      "page_e": 463
     },
     {
       "title": "WILD FLOWER",
-      "page": 464
+      "volume": 1,
+      "page_s": 464,
+      "page_e": 465
     },
     {
       "title": "WINDOWS",
-      "page": 466
+      "volume": 1,
+      "page_s": 466,
+      "page_e": 467
     },
     {
       "title": "WINGS OF KARMA",
-      "page": 468
+      "volume": 1,
+      "page_s": 468,
+      "page_e": 468
     },
     {
       "title": "WITCH HUNT",
-      "page": 469
+      "volume": 1,
+      "page_s": 469,
+      "page_e": 469
     },
     {
       "title": "WOODY 'N' YOU",
-      "page": 470
+      "volume": 1,
+      "page_s": 470,
+      "page_e": 470
     },
     {
       "title": "YES OR NO",
-      "page": 471
+      "volume": 1,
+      "page_s": 471,
+      "page_e": 471
     },
     {
       "title": "YESTERDAY",
-      "page": 472
+      "volume": 1,
+      "page_s": 472,
+      "page_e": 472
     },
     {
       "title": "YESTERDAYS",
-      "page": 473
+      "volume": 1,
+      "page_s": 473,
+      "page_e": 473
     },
     {
       "title": "YOU ARE THE SUNSHINE OF MY LIFE",
-      "page": 474
+      "volume": 1,
+      "page_s": 474,
+      "page_e": 474
     },
     {
       "title": "YOU ARE TOO BEAUTIFUL",
-      "page": 475
+      "volume": 1,
+      "page_s": 475,
+      "page_e": 475
     },
     {
       "title": "YOU DON'T KNOW WHAT LOVE IS",
-      "page": 476
+      "volume": 1,
+      "page_s": 476,
+      "page_e": 476
     },
     {
       "title": "YOU TOOK ADVANTAGE OF ME",
-      "page": 477
+      "volume": 1,
+      "page_s": 477,
+      "page_e": 477
     },
     {
       "title": "Untitled Tune",
-      "page": 478
+      "volume": 1,
+      "page_s": 478,
+      "page_e": 479
     },
     {
       "title": "Untitled Tune",
-      "page": 480
+      "volume": 1,
+      "page_s": 480,
+      "page_e": 480
     },
     {
       "title": "Untitled Tune",
-      "page": 481
+      "volume": 1,
+      "page_s": 481,
+      "page_e": 481
     },
     {
       "title": "SPAIN",
-      "page": 482
+      "volume": 1,
+      "page_s": 482,
+      "page_e": 484
     },
     {
       "title": "ALFIE",
-      "page": 485
+      "volume": 1,
+      "page_s": 485,
+      "page_e": 485
     },
     {
       "title": "BLACK MONDAY",
-      "page": 486
+      "volume": 1,
+      "page_s": 486,
+      "page_e": 486
     },
     {
       "title": "CONTEMPLATION",
-      "page": 487
+      "volume": 1,
+      "page_s": 487,
+      "page_e": 487
     },
     {
       "title": "THE DISGUISE, THE SPHINX",
-      "page": 488
+      "volume": 1,
+      "page_s": 488,
+      "page_e": 488
     },
     {
       "title": "KELO",
-      "page": 489
+      "volume": 1,
+      "page_s": 489,
+      "page_e": 489
     },
     {
       "title": "I'M AFRAID",
-      "page": 490
+      "volume": 1,
+      "page_s": 490,
+      "page_e": 490
     },
     {
       "title": "MR. JIN",
-      "page": 491
+      "volume": 1,
+      "page_s": 491,
+      "page_e": 491
     },
     {
       "title": "OLINOQUI VALLEY",
-      "page": 492
+      "volume": 1,
+      "page_s": 492,
+      "page_e": 492
     },
     {
       "title": "PERFECT LOVE, JAMALA",
-      "page": 493
+      "volume": 1,
+      "page_s": 493,
+      "page_e": 493
     },
     {
       "title": "PLAIN JANE",
-      "page": 494
+      "volume": 1,
+      "page_s": 494,
+      "page_e": 494
     },
     {
       "title": "REFFLECTIONS",
-      "page": 495
+      "volume": 1,
+      "page_s": 495,
+      "page_e": 495
     },
     {
       "title": "ROAD SONG",
-      "page": 496
+      "volume": 1,
+      "page_s": 496,
+      "page_e": 496
     },
     {
       "title": "VALSE HOT",
-      "page": 497
+      "volume": 1,
+      "page_s": 497,
+      "page_e": 497
     }
   ]
-  
