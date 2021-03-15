@@ -23,14 +23,14 @@ function updateSearch() {
     }
 }
 
-$.getJSON("realbook1.json" , function(data_) {
-    data = data_;
-    
-    fuse = new Fuse(data, {
-        keys: ['title', 'page_s', 'page_e']
-    });
-});
-
 $(function() {
-    initTable();
+    $.getJSON("realbook1.json" , function(data_) {
+        data = data_;
+    
+        fuse = new Fuse(data, {
+            keys: ['title', 'page_s', 'page_e']
+        });
+    
+        updateSearch();
+    });
 });
