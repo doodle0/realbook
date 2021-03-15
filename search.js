@@ -9,7 +9,6 @@ function initTable() {
 function updateSearch() {
     var text = document.getElementById("search-text").value
     var res = fuse.search(text)
-    console.log(res)
 
     var tbl = document.getElementById("result-tbl")
     initTable();
@@ -18,13 +17,15 @@ function updateSearch() {
         if (i >= 15) break;
         var item = res[i].item;
         var page_text = item.page_s == item.page_e ? item.page_s : item.page_s + "~" + item.page_e;
-        tbl.innerHTML += '<tr><td>' + item.title + '</td><td>' + item.volume + '</td><td>' + page_text + '</td></tr>'
+        tbl.innerHTML += '<tr><td>' + 
+                '<a href="view.html?vol=' + item.volume + '&page_s=' + item.page_s + '&page_e='+ item.page_e + '">' + item.title + '</a>'
+                + '</td><td>' + item.volume + '</td><td>' + page_text + '</td></tr>'
     }
 }
 
 $.getJSON("realbook1.json" , function(data_) {
     data = data_;
-
+    
     fuse = new Fuse(data, {
         keys: ['title', 'page_s', 'page_e']
     });
