@@ -18,3 +18,11 @@ img.make-it-fit {
     max-width: 99%;
     max-height: 99%;
 }
+
+button.slider-btn {
+    opacity: 25%;
+}
+
+button.slider-btn:hover {
+    opacity: 100%;
+}
