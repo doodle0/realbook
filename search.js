@@ -23,7 +23,7 @@ function updateSearch() {
 }
 
 $(function() {
-    $.getJSON("realbook1.json" , function(data_) {
+    $.getJSON("realbook.json" , function(data_) {
         data = data_;
     
         fuse = new Fuse(data, {
