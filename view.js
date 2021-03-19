@@ -10,23 +10,6 @@ function getParam(sname) {
     return sval;
 }
 
-
-// slider
-var slideIndex = 1;
-function plusDivs(n) {
-  showDivs(slideIndex += n);
-}
-function showDivs(n) {
-  var i;
-  var x = document.getElementsByClassName("mySlides");
-  if (n > x.length) {slideIndex = 1}
-  if (n < 1) {slideIndex = x.length}
-  for (i = 0; i < x.length; i++) {
-    x[i].style.display = "none";  
-  }
-  x[slideIndex-1].style.display = "inline-block";  
-}
-
 $(function() {
     var vol = getParam("vol");
     var page_s = 1*getParam("page_s");
@@ -39,22 +22,37 @@ $(function() {
 
     var image_view = document.getElementById("image-view");
     for (var i in image_urls) {
+        var image_slide = document.createElement("div");
+        image_slide.className = "swiper-slide";
         var image = document.createElement("img");
-        image.className = "mySlides make-it-fit";
+        image.className = "fit-to-screen";
         image.src = image_urls[i];
-        image_view.appendChild(image);
+        image_slide.appendChild(image);
+        image_view.appendChild(image_slide);
     }
 
-    showDivs(slideIndex);
+    var swiper = new Swiper('.swiper-container', {
+        slidesPerView: 1,
+        spaceBetween: 10,
+        keyboard: {
+          enabled: true,
+        },
+        pagination: {
+          el: '.swiper-pagination',
+          clickable: true,
+        },
+        navigation: {
+          nextEl: '.swiper-button-next',
+          prevEl: '.swiper-button-prev',
+        },
+        
+        breakpoints: {
+          '@1.40': {
+            slidesPerView: 2,
+          },
+          '@2.10': {
+            slidesPerView: 3,
+          },
+        },
+      });
 });
-
-function onKey(e) {
-    console.log(e.code)
-    if (e.code == 'ArrowLeft') {
-        plusDivs(-1);
-    } else if (e.code == 'ArrowRight') {
-        plusDivs(1);
-    }
-}
-
-document.addEventListener('keydown', onKey);

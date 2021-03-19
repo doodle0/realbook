@@ -6,7 +6,7 @@ h1 {
     font-weight: bold;
 }
 
-div.fill-screen {
+div.swiper-container {
     position: fixed;
     left: 0;
     right: 0;
@@ -14,9 +14,24 @@ div.fill-screen {
     bottom: 0;
     text-align: center;
 }
-img.make-it-fit {
-    max-width: 99%;
-    max-height: 99%;
+div.swiper-slide {
+  /* Center slide text vertically */
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: center;
+  -ms-flex-pack: center;
+  -webkit-justify-content: center;
+  justify-content: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  -webkit-align-items: center;
+  align-items: center;
+}
+img.fit-to-screen {
+    max-width: 100%;
+    max-height: 100%;
 }
 
 button.slider-btn {
