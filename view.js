@@ -34,6 +34,7 @@ $(function() {
     var swiper = new Swiper('.swiper-container', {
         slidesPerView: 1,
         spaceBetween: 10,
+        centerInsufficientSlides: true,
         keyboard: {
           enabled: true,
         },
@@ -54,5 +55,6 @@ $(function() {
             slidesPerView: 3,
           },
         },
-      });
+    });
+    
 });
