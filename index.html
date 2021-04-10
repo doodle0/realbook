@@ -19,24 +19,24 @@
 <link rel="stylesheet" href="style.css">
 
 <body>
-    <header class="w3-container w3-theme w3-center" style="padding:32px 32px">
-      <h1>리얼북 검색</h1>
+    <header class="w3-container w3-theme w3-center" style="padding:8px 8px">
+      <h1 class="w3-xlarge">리얼북 검색</h1>
     </header>
     
-    <div class="w3-container w3-padding-16" style="max-width: 1000px; margin: auto;">
-        <div class="w3-container w3-padding-16">
+    <div class="w3-container" style="max-width: 1000px; margin: auto; padding: 8px; padding-bottom: 16px;">
+        <div class="w3-container" style="padding:8px 16px">
             <input id="search-text" class="w3-input w3-border w3-theme-l5" type="search" oninput="updateSearch()" placeholder="제목 또는 페이지">
         </div>
 
         <div class="w3-container">
-            <h2>검색 결과</h2>
+            <h2 class="w3-large">검색 결과</h2>
             <table id="result-tbl" class="w3-table-all">
             </table>
         </div>
     </div>
 
     <footer class="w3-container w3-theme" style="padding:16px 32px">
-        <p>오류 신고 : doodle0@naver.com</p>
+        <p>오류 신고 : <a href="mailto:doodle0@naver.com">doodle0@naver.com</a> | <a href="https://github.com/doodle0/realbook">GitHub</a></p>
     </footer>
 
   <script src="search.js"></script>
