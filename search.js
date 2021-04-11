@@ -46,21 +46,19 @@ $(function() {
 
 function autoScroll() {
     $('html,body').animate({
-        scrollTop: $("#search-text").offset().top}
-    );
+        scrollTop: $("#search-text").offset().top
+    });
 }
 
 $("#search-text").on("keypress", function(event){
     if (event.keyCode == 13) {
-        event.preventDefault();
-        event.target.blur()
+        // event.preventDefault();
+        // event.target.blur()
         if (searchTopLink)
             location.href = searchTopLink;
     }
-    autoScroll();
 });
 
-// 스크롤
-$("#search-text").click(function(event){
-    autoScroll();
-});
+// 검색바로 자동 스크롤
+$("#search-text").on("keyup", autoScroll);
+$("#search-text").click(autoScroll);
