@@ -861,6 +861,12 @@
     "title": "FOR HEAVEN'S SAKE",
     "volume": 1,
     "page_s": 159,
+    "page_e": 159
+  },
+  {
+    "title": "FORTUNE SMILES",
+    "volume": 1,
+    "page_s": 160,
     "page_e": 160
   },
   {
@@ -5808,7 +5814,7 @@
     "page_e": 127
   },
   {
-    "title": "I LOVE YOU PORGY",
+    "title": "I LOVES YOU PORGY",
     "volume": 3,
     "page_s": 128,
     "page_e": 128
@@ -6777,6 +6783,12 @@
     "title": "UN POCO-LOCO",
     "volume": 3,
     "page_s": 327,
+    "page_e": 327
+  },
+  {
+    "title": "UNFORGETTABLE",
+    "volume": 3,
+    "page_s": 328,
     "page_e": 328
   },
   {
@@ -6876,7 +6888,7 @@
     "page_e": 345
   },
   {
-    "title": "WITHCRAFT",
+    "title": "WITCHCRAFT",
     "volume": 3,
     "page_s": 346,
     "page_e": 346
