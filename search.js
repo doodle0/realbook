@@ -6,6 +6,7 @@ var searchTopLink;
 function initTable() {
     let tbl = $("#result-tbl")
     $('#result-tbl > tbody').empty();
+    $('#result-thead').addClass('d-none');
     searchTopLink = null;
 }
 
@@ -20,6 +21,7 @@ function updateSearch() {
     searchTopLink = null;
 
     for (i in res) {
+        $('#result-thead').removeClass('d-none');
         if (i >= 10) break;
         let item = res[i].item;
         let page_text = item.page_s == item.page_e ? item.page_s : item.page_s + "~" + item.page_e;
