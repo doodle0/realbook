@@ -20,7 +20,7 @@ function updateSearch() {
     searchTopLink = null;
 
     for (i in res) {
-        if (i >= 15) break;
+        if (i >= 10) break;
         let item = res[i].item;
         let page_text = item.page_s == item.page_e ? item.page_s : item.page_s + "~" + item.page_e;
         let link = `view.html?vol=${item.volume}&page_s=${item.page_s}&page_e=${item.page_e}`
