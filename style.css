@@ -2,6 +2,14 @@ body,h1,h2,h3,h4,h5,h6 {
     font-family: "Noto Sans KR", sans-serif
 }
 
+tr.selected {
+    background-color: rgb(232, 244, 255);
+}
+
+.wb-keep-all {
+    word-break: keep-all;
+}
+
 div.swiper-container {
     position: fixed;
     left: 0;

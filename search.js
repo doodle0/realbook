@@ -1,13 +1,9 @@
 var data;
 var fuse;
 
-var searchTopLink;
-
 function initTable() {
-    let tbl = $("#result-tbl")
     $('#result-tbl > tbody').empty();
-    $('#result-thead').addClass('d-none');
-    searchTopLink = null;
+    $('#result-tbl').addClass('d-none');
 }
 
 function updateSearch() {
@@ -18,10 +14,8 @@ function updateSearch() {
 
     let tbo = $('#result-tbl > tbody');
 
-    searchTopLink = null;
-
     for (i in res) {
-        $('#result-thead').removeClass('d-none');
+        $('#result-tbl').removeClass('d-none');
         if (i >= 10) break;
         let item = res[i].item;
         let page_text = item.page_s == item.page_e ? item.page_s : item.page_s + "~" + item.page_e;
@@ -29,7 +23,10 @@ function updateSearch() {
         tbo.append(
             $(`<tr><td><a href="${link}">${item.title}</a></td><td>${item.volume}</td><td>${page_text}</td></tr>`)
         );
-        if (i == 0) searchTopLink = link;
+    }
+    let resultRows = $('#result-tbl tbody tr');
+    if (resultRows.length > 0) {
+        $(resultRows[0]).addClass('selected');
     }
 }
 
@@ -51,16 +48,35 @@ function autoScroll() {
     });
 }
 
-$("#search-text").on("input", updateSearch)
+$("#search-text").on("input", updateSearch);
 
-$("#search-text").on("keypress", function(event){
-    if (event.keyCode == 13) {
-        // event.preventDefault();
-        // event.target.blur()
-        if (searchTopLink)
-            location.href = searchTopLink;
+$("#search-text").on("keydown", function(event) {
+    if (event.keyCode == 13) {  // Enter
+        var selectedRowA = $('.selected a')[0];
+        if (selectedRowA) {
+            location.href = selectedRowA.getAttribute('href');
+        }
+    }
+    else if (event.keyCode == 38) {  // ArrowUp
+        console.log("down")
+        let selectedRow = $('#result-tbl tr.selected');
+        if (selectedRow.length && selectedRow.prev().length) {
+            selectedRow.removeClass('selected');
+            selectedRow.prev().addClass('selected');
+        }
+    }
+    else if (event.keyCode == 40) {  // ArrowDown
+        console.log("down")
+        let selectedRow = $('#result-tbl tr.selected');
+        if (selectedRow.length && selectedRow.next().length) {
+            selectedRow.removeClass('selected');
+            selectedRow.next().addClass('selected');
+        }
     }
 });
+
+// 시작 시 검색바 선택
+$("#search-text").focus();
 
 // 검색바로 자동 스크롤
 $("#search-text").on("keyup", autoScroll);

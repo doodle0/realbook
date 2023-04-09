@@ -21,25 +21,23 @@
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    <header class="container-fluid p-3 bg-light">
+    <header class="container-fluid px-1 py-3 bg-light">
       <h1 class="text-center">리얼북 검색</h1>
+      <div class="container-xxl">
+        <input type="search" id="search-text" class="form-control m-0" placeholder="제목 또는 페이지">
+      </div>
     </header>
     
-    <div class="container-xxl py-3">
-      <input type="search" id="search-text" class="form-control" placeholder="제목 또는 페이지">
-
-      <div class="card my-3">
-        <div class="card-header"><h5 class="my-0">검색 결과</h5></div>
-        <table id="result-tbl" class="table table-striped mb-0">
-          <thead id="result-thead"><tr><th>제목</th><th>볼륨</th><th>페이지</th></tr></thead>
-          <tbody></tbody>
-        </table>
-      </div>
+    <div class="container-xxl">
+      <table id="result-tbl" class="table table-striped mb-0 d-none">
+        <thead id="result-thead" class="wb-keep-all"><tr><th>제목</th><th>볼륨</th><th>페이지</th></tr></thead>
+        <tbody></tbody>
+      </table>
     </div>
 
-    <footer class="container-fluid px-0 py-3 bg-light">
+    <footer class="container-fluid px-1 py-3 bg-light">
       <div class="container-xxl d-flex">
-        <div>오류 제보 : <a href="mailto:doodle0@naver.com">doodle0@naver.com</a></div>
+        <a href="mailto:doodle0@naver.com">오류 제보(email)</a>
         <div class="border-start mx-2"></div>
         <a href="https://github.com/doodle0/realbook">GitHub</a>
         <div class="border-start mx-2"></div>
