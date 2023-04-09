@@ -69,7 +69,8 @@ $(function () {
     });
 
     $('body').mousemove(resetAutoHideTimer);
-    $('body').keydown(resetAutoHideTimer);
     $('body').click(resetAutoHideTimer);
+    $('body').bind('touchstart', resetAutoHideTimer);
+    $('body').keydown(resetAutoHideTimer);
     setAutoHideTimer();
 });
