@@ -33,6 +33,15 @@ div.swiper-slide {
   -webkit-align-items: center;
   align-items: center;
 }
+.swiper-button-prev,
+.swiper-button-next {
+    border-radius: 4px;
+    background-color: rgba(167, 167, 167, 0.3);
+}
+.swiper-button-prev:after,
+.swiper-button-next:after {
+    font-size: 16px;
+}
 img.fit-to-screen {
     max-width: 100%;
     max-height: 100%;

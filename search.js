@@ -58,7 +58,6 @@ $("#search-text").on("keydown", function(event) {
         }
     }
     else if (event.keyCode == 38) {  // ArrowUp
-        console.log("down")
         let selectedRow = $('#result-tbl tr.selected');
         if (selectedRow.length && selectedRow.prev().length) {
             selectedRow.removeClass('selected');
@@ -66,7 +65,6 @@ $("#search-text").on("keydown", function(event) {
         }
     }
     else if (event.keyCode == 40) {  // ArrowDown
-        console.log("down")
         let selectedRow = $('#result-tbl tr.selected');
         if (selectedRow.length && selectedRow.next().length) {
             selectedRow.removeClass('selected');
