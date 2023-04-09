@@ -6,17 +6,15 @@ function setAutoHideTimer() {
     autoHideTimer = setTimeout(onAutoHideTimeout, 3000);
 }
 function resetAutoHideTimer() {
+    if ($('.auto-hide').hasClass('swiper-button-lock')) return;
     $('.auto-hide').fadeIn();
     clearTimeout(autoHideTimer);
     setAutoHideTimer();
 }
 function onAutoHideTimeout() {
+    if ($('.auto-hide').hasClass('swiper-button-lock')) return;
     $('.auto-hide').fadeOut();
 }
-
-$('body').mousemove(resetAutoHideTimer);
-$('body').keydown(resetAutoHideTimer);
-$('body').click(resetAutoHideTimer);
 
 // url 에서 parameter 추출
 function getParam(sname) {
@@ -70,5 +68,8 @@ $(function () {
         },
     });
 
+    $('body').mousemove(resetAutoHideTimer);
+    $('body').keydown(resetAutoHideTimer);
+    $('body').click(resetAutoHideTimer);
     setAutoHideTimer();
 });
