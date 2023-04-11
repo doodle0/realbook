@@ -6,29 +6,43 @@ function initTable() {
     $('#result-tbl').addClass('d-none');
 }
 
+function getImgLink(item) {
+    return `view.html?vol=${item.volume}&page_s=${item.page_s}&page_e=${item.page_e}`;
+}
+
+function getTrDOM(item) {
+    let page_text = item.page_s == item.page_e ? item.page_s : item.page_s + "~" + item.page_e;
+    return $(`<tr><td><a href="${getImgLink(item)}">${item.title}</a></td><td>${item.volume}</td><td>${page_text}</td></tr>`);
+}
+
 function updateSearch() {
-    let text = $("#search-text").val()
-    let res = fuse.search(text)
+    let text = $("#search-text").val();
+    let res = fuse.search(text);
 
     initTable();
-
+    
     let tbo = $('#result-tbl > tbody');
-
     for (i in res) {
         $('#result-tbl').removeClass('d-none');
         if (i >= 10) break;
-        let item = res[i].item;
-        let page_text = item.page_s == item.page_e ? item.page_s : item.page_s + "~" + item.page_e;
-        let link = `view.html?vol=${item.volume}&page_s=${item.page_s}&page_e=${item.page_e}`
-        tbo.append(
-            $(`<tr><td><a href="${link}">${item.title}</a></td><td>${item.volume}</td><td>${page_text}</td></tr>`)
-        );
+        tbo.append(getTrDOM(res[i].item));
     }
     let resultRows = $('#result-tbl tbody tr');
     if (resultRows.length > 0) {
         $(resultRows[0]).addClass('selected');
     }
 }
+
+function autoScroll() {
+    $('html,body').animate({
+        scrollTop: $("#search-text").offset().top
+    });
+}
+
+$('#random-btn').click((e) => {
+    let rand = Math.floor(Math.random() * data.length);
+    location.href = getImgLink(data[rand]);
+});
 
 $(function() {
     $.getJSON("realbook.json" , function(data_) {
@@ -42,15 +56,9 @@ $(function() {
     });
 });
 
-function autoScroll() {
-    $('html,body').animate({
-        scrollTop: $("#search-text").offset().top
-    });
-}
-
 $("#search-text").on("input", updateSearch);
 
-$("#search-text").on("keydown", function(event) {
+$("body").on("keydown", function(event) {
     if (event.keyCode == 13) {  // Enter
         var selectedRowA = $('.selected a')[0];
         if (selectedRowA) {
