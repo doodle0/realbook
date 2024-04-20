@@ -1,4 +1,4 @@
-const IMG_URL = "https://wypn9z41ir5bzmgjjalyna.on.drv.tw/realbook/rendered"
+const IMG_URL = "//doodle0.ddns.net:8080/rendered"
 
 // 이미지 로드 완료 시기 파악
 Image.prototype.load = function(url){
